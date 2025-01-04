@@ -119,4 +119,13 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ---
 
 ## Contact
+For any inquiries or feedback, please contact the project maintainer at:
+- Email: 22cs3022@gmail.com
+- LinkedIn:
+  ```bash
+  https://www.linkedin.com/in/ayushigupta1604/`
+- Twitter: `https://x.com/Ayushi_G16`
+- Github: `https://github.com/AyushiGupta160604`
+- Topmate: `https://topmate.io/ayushi_gupta16/`
+- Fiver: `https://www.fiverr.com/users/ayushigupta200/`
 ---
