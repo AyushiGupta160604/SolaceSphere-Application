@@ -5,7 +5,7 @@ SolaceSphere is an innovative mobile application designed to help users manage t
 ## Key Features
 
 - ### Mood Tracking
-Users can monitor and track their emotional health over time, providing valuable insights into their mental well-being.
+  Users can monitor and track their emotional health over time, providing valuable insights into their mental well-being.
 
 - ### Guided Meditation
 The app offers access to a variety of guided meditation sessions that help users enhance mental clarity, focus, and relaxation.
