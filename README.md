@@ -2,6 +2,8 @@
 
 SolaceSphere is an innovative mobile application designed to help users manage their mental well-being. The app offers a range of features aimed at tracking emotional health, providing guided meditation sessions, fostering relaxation, and supporting personal growth. Currently, the frontend has been fully developed, and backend implementation is underway.
 
+--- 
+
 ## Key Features
 
 ### 1] Mood Tracking
@@ -24,6 +26,37 @@ SolaceSphere is an innovative mobile application designed to help users manage t
 
 ### 7] Goal Management
   Set SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals, track progress, and stay on top of personal development through interactive goal management tools.
+
+---
+
+## Tech Stack
+
+### Frontend: React.js
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30" alt="React.js Logo" />  
+Building a dynamic and responsive UI for a seamless user experience.
+
+### Backend: Node.js & Express
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" alt="Node.js Logo" />  
+Handling authentication, routing, and secure data processing with Express.
+
+### Database: MongoDB
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" alt="MongoDB Logo" />  
+Storing and managing data efficiently for high scalability.
+
+### API Integrations (Planned): Google Maps, Spotify
+
+<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="30" height="30" alt="Spotify Logo" />  
+Connecting with external services to enhance user functionality.
+
+### Email Service: Nodemailer
+
+<img src="https://nodemailer.com/nm_logo_200x136.png" width="30" height="30" alt="Nodemailer Logo" />  
+Handling email notifications for user actions and alerts.
+
+---
 
 ## Installation and Setup
 
@@ -60,6 +93,8 @@ expo start or npm start
 
 This will launch the app in the Expo client, where you can preview it on a physical device or simulator.
 
+---
+
 ## Roadmap
 The frontend of the app is complete, with the following features fully implemented:
 - Mood Tracking
@@ -76,7 +111,14 @@ The next phase of the project involves backend development. Planned backend feat
 - Therapist database connection for real-time searches and bookings
 - Goal tracking and syncing across devices
 
+---
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. You can also raise issues if you encounter any bugs or have suggestions for new features.
+
+---
+
+## Contact
+---
 
 ## Contact
