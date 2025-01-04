@@ -4,26 +4,26 @@ SolaceSphere is an innovative mobile application designed to help users manage t
 
 ## Key Features
 
-- ### Mood Tracking
+1] ### Mood Tracking
   Users can monitor and track their emotional health over time, providing valuable insights into their mental well-being.
 
-- ### Guided Meditation
-The app offers access to a variety of guided meditation sessions that help users enhance mental clarity, focus, and relaxation.
+2] ### Guided Meditation
+  The app offers access to a variety of guided meditation sessions that help users enhance mental clarity, focus, and relaxation.
 
-- ### Therapist Finder
-A comprehensive tool to connect users with certified mental health professionals. Users can filter based on their preferences and find the right therapist for them.
+3] ### Therapist Finder
+  A comprehensive tool to connect users with certified mental health professionals. Users can filter based on their preferences and find the right therapist for them.
 
-- ### Relaxation Tools
-SolaceSphere includes mindful games and activities designed to help users relax, de-stress, and find calm.
+4] ### Relaxation Tools
+  SolaceSphere includes mindful games and activities designed to help users relax, de-stress, and find calm.
 
-- ### Focus Timer (Pomodoro)
-Boost productivity with customizable Pomodoro timers, designed to help users work efficiently while ensuring regular breaks for mental clarity.
+5] ### Focus Timer (Pomodoro)
+  Boost productivity with customizable Pomodoro timers, designed to help users work efficiently while ensuring regular breaks for mental clarity.
 
-- ### Journal
-A reflective journaling feature that allows users to record their thoughts, emotions, and daily experiences to improve self-awareness and personal growth.
+6] ### Journal
+  A reflective journaling feature that allows users to record their thoughts, emotions, and daily experiences to improve self-awareness and personal growth.
 
-- ### Goal Management
-Set SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals, track progress, and stay on top of personal development through interactive goal management tools.
+7] ### Goal Management
+  Set SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals, track progress, and stay on top of personal development through interactive goal management tools.
 
 ## Installation and Setup
 
