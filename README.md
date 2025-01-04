@@ -46,7 +46,7 @@ Handling authentication, routing, and secure data processing with Express.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" alt="MongoDB Logo" />  
 Storing and managing data efficiently for high scalability.
 
-### API Integrations (Planned): Google Maps, Spotify
+### API Integrations (Planned till now, subject to changes): Spotify, Google Maps and places, Youtube
 
 <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="30" height="30" alt="Spotify Logo" />  
 Connecting with external services to enhance user functionality.
@@ -120,5 +120,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 ---
-
-## Contact
