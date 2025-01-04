@@ -37,9 +37,9 @@ Before getting started, ensure that you have the following installed:
 
 To get started, clone the repository to your local machine:
 
-    ```bash
-    git clone https://github.com/AyushiGupta160604/SolaceSphere.git
-
+```bash
+git clone https://github.com/AyushiGupta160604/SolaceSphere.git
+```
 
 ### Install Dependencies
 
