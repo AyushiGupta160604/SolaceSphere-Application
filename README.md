@@ -120,19 +120,25 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 For any inquiries or feedback, please contact the project maintainer at:
-- Email: 22cs3022@gmail.com
+- Email:
+  22cs3022@gmail.com
+  
 - LinkedIn:
   ```bash
   https://www.linkedin.com/in/ayushigupta1604/
+  
 - Twitter:
   ```bash
   https://x.com/Ayushi_G16
+  
 - Github:
   ```bash
   https://github.com/AyushiGupta160604
+  
 - Topmate:
   ```bash
   https://topmate.io/ayushi_gupta16/
+  
 - Fiver:
   ```bash
   https://www.fiverr.com/users/ayushigupta200/
