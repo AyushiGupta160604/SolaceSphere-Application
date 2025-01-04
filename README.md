@@ -4,25 +4,25 @@ SolaceSphere is an innovative mobile application designed to help users manage t
 
 ## Key Features
 
-1] ### Mood Tracking
+### 1] Mood Tracking
   Users can monitor and track their emotional health over time, providing valuable insights into their mental well-being.
 
-2] ### Guided Meditation
+### 2] Guided Meditation
   The app offers access to a variety of guided meditation sessions that help users enhance mental clarity, focus, and relaxation.
 
-3] ### Therapist Finder
+### 3] Therapist Finder
   A comprehensive tool to connect users with certified mental health professionals. Users can filter based on their preferences and find the right therapist for them.
 
-4] ### Relaxation Tools
+### 4] Relaxation Tools
   SolaceSphere includes mindful games and activities designed to help users relax, de-stress, and find calm.
 
-5] ### Focus Timer (Pomodoro)
+### 5] Focus Timer (Pomodoro)
   Boost productivity with customizable Pomodoro timers, designed to help users work efficiently while ensuring regular breaks for mental clarity.
 
-6] ### Journal
+### 6] Journal
   A reflective journaling feature that allows users to record their thoughts, emotions, and daily experiences to improve self-awareness and personal growth.
 
-7] ### Goal Management
+### 7] Goal Management
   Set SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals, track progress, and stay on top of personal development through interactive goal management tools.
 
 ## Installation and Setup
