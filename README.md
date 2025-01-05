@@ -99,7 +99,7 @@ This will launch the app in the Expo client, where you can preview it on a physi
 
 The foundational structure of the app is in place, including the main features and navigation. Each feature has its dedicated component or screen, ensuring modularity and scalability. The app's user interface and experience design are tailored for a soothing and organized feel.
 
--- 
+---
 
 ## Roadmap
 The frontend of the app is complete, with the following features fully implemented:
